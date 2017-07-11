@@ -1,0 +1,19 @@
+body { background-color: #A33; }
+p {
+  font-size: 2em;
+  font-family: cursive;
+  color: #FFF;
+}
+.ball {
+  display: block;
+  background-color: #3A3;
+  position: absolute;
+  left: -1000px;
+  top: -1000px;
+  height: 0px;
+  width: 0px;
+  border-radius: 50%;
+  border-style: outset;
+  border-width: 3px;
+  border-color: #5C5;
+}
